@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first Odin Project assignment which required using the terminal to create a folder structure, HTML to add content for several pages and links between the pages and git to add code to a repository on Github. The blueberry pancake recipe is a real recipe used by my 10-year daughter to make pancakes for our family on the weekends.
