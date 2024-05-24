@@ -1,0 +1,61 @@
+/* style.css */
+
+body {
+    font-family: 'Times New Roman', serif;
+    color: black;
+    font-size: 24px;
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Times New Roman', serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 22px;
+}
+
+li {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 22px;
+}
+
+a {
+    color: black;
+}
+
+.description {
+    padding: 20px 20px;
+    margin: 10px;
+}
+
+.ingredients {
+    background-color: #EFEAE7;
+    border: 1px dotted black;
+    padding: 20px 40px;
+    margin: 10px;
+}
+
+.ingredients li {
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+.steps {
+    padding: 20px 20px;
+    margin: 10px;
+}
+
